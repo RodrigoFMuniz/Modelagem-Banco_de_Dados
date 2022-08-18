@@ -16,7 +16,8 @@
 
 
 ## Banco de dados NoSQL
-
+- MongoDB
+- Redis
 ## Modelagem Conceitual
 
 ## Modelagem Lógica
